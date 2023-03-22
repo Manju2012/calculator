@@ -12,3 +12,6 @@ class TestCalculator:
 
     def test_sub(self):
         assert 2 == calculator.sub(4, 2)
+
+    def test_mult(self):
+        assert 100 = calculator.mull(10, 10)
